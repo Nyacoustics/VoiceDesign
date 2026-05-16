@@ -1,11 +1,11 @@
 {
   "trial": {
-    "URL": "",
+    "URL": "https://github.com/Nyacoustics/VoiceDesign/releases/download/trial/VoiceDesignTrial_Update_v1.1.0.zip",
   },
   "product": {
-    "URL": "https://github.com/Nyacoustics/VoiceDesign/releases/download/std-v1.4.0/VoiceDesign_Update_v1.4.0.zip",
+    "URL": "https://github.com/Nyacoustics/VoiceDesign/releases/download/standard/VoiceDesign_Update_v1.4.0.zip",
   },
   "deluxe": {
-    "URL": "",
+    "URL": "https://github.com/Nyacoustics/VoiceDesign/releases/download/deluxe/VoiceDesignDeluxe_Update_v1.1.0.zip",
   }
 }
